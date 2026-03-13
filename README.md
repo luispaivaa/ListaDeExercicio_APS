@@ -51,6 +51,6 @@ Os arquivos de resolução seguem a seguinte estrutura:
 ## 🧑‍💻 Autor
 
 * Luis Henrique Âncores Paiva - Ciência da Computação (P4)
-
+* Felipe Xavier - Análise e Desenvolvimento de Sistemas (P2)
 ---
 *Este repositório tem fins estritamente acadêmicos.*
